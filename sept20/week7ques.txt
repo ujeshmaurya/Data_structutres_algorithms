@@ -1,0 +1,21 @@
+COMPUTER ENGINEERING DEPARTMENT(III SEMESTER)
+
+CSP211 Programming Lab
+
+Week: 7 Assignment:1 Batch: Tuesday
+
+Create Function for each question. And call it using switch case.(eg: case1: Q1) .
+
+Presentation matters.
+
+1. Implement SortStack() using recursion.
+
+2. Print a function(name of your choice) for printing a pattern without using any loop.
+
+3. Implement the Inorder() traversal.
+
+4. Implement Infix2Prefix() function which will convert an infix expression to prefix.
+
+5. Implement stack&#39;s operation Push() using linked list.
+
+Call of the every functions will be given into the Print() function.
